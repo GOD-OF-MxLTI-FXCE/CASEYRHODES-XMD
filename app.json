@@ -13,7 +13,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "Caseyrhodes~BqcjxTiR#5TMkHXJyN4JffFZ90WwU0eXLyfe2uf4rQSiCGm9HdDU"
     },  
     
     "ALIVE_IMG": {
@@ -31,7 +31,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."
+      "value": "@"
     },
 
     "WELCOME": {
@@ -43,7 +43,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -100,19 +100,19 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴄᴀsᴇʏʀʜᴏᴅᴇs 🫅"
+      "value": "𝐃      𝐀      𝐑      𝐊      𝐒      𝐄      𝐈      𝐃 🫅"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "50932818924"
  },
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "✦ ᴄᴀsᴇʏʀʜᴏᴅᴇs xᴍᴅ✦"
+      "value": "𒋲𝐊⃤𝐈𝐍𝐆⃤👑✨ 𝐀𝐍𝐃 𝐐⃤⚜️𝐔⃝𝐄𝐍𝐍𒋲"
 
       }, 
 
@@ -144,7 +144,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
