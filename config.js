@@ -5,9 +5,9 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~BqcjxTiR#5TMkHXJyN4JffFZ90WwU0eXLyfe2uf4rQSiCGm9HdDU",
+SESSION_ID: process.env.SESSION_ID || "Caseyrhodes~U3lmHDCQ#rXjq2EvRPA0L8m0iRkDiKHVr9XoeuQwU31-dei4mmDY",
 // add your Session Id 
-PREFIX: process.env.PREFIX || "#",
+PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
 BOT_NAME: process.env.BOT_NAME || "✦ 𝐃      𝐀      𝐑      𝐊      𝐒      𝐄      𝐈      𝐃 ✦ XMD ✦",
 // add bot namw here for menu
@@ -43,7 +43,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by CASEYRHODES XMD 🚀🔥*",
 // set the auto reply massage on status reply    
-MODE: process.env.MODE || "private",
+MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
@@ -59,7 +59,7 @@ OWNER_REACT: process.env.OWNER_REACT || "false",
 // make it true or fasle for only react on owner msg only 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
